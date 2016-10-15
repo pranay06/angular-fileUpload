@@ -1,0 +1,26 @@
+{
+  "name": "angular-fileUpload",
+  "authors": [
+    "Pranay <pranay.study@gmail.com>"
+  ],
+  "description": "It enables the user to incorporate multiple file upload feature easily",
+  "main": "index.js",
+  "keywords": [
+    "file-upload",
+    "file",
+    "files-upload",
+    "upload"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ng-file-upload": "^12.2.12"
+  }
+}
